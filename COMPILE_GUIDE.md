@@ -48,7 +48,7 @@
 ## Método 2: CMake
 
 ### Requisitos / Requirements
-- CMake 3.10 ou mais recente / or newer
+- CMake 3.15 ou mais recente / or newer
 - Visual Studio Build Tools ou MinGW
 - Windows SDK
 

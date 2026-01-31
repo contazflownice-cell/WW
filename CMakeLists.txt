@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.15)
 project(WeedMenCheat)
 
 # Set C++ standard
@@ -21,7 +21,7 @@ set_target_properties(WeedMenCheat PROPERTIES
     LIBRARY_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin"
 )
 
-# For Release builds, use static runtime
+# For Release builds, use static runtime (requires CMake 3.15+)
 if(MSVC)
     set_property(TARGET WeedMenCheat PROPERTY
         MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
