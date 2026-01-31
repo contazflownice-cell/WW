@@ -3,10 +3,14 @@
 ## ⚠️ PROBLEMA: CRASH AO INJETAR / PROBLEM: INJECTION CRASH
 
 **Português:**
-Se o jogo está crashando quando você injeta o DLL, consulte o guia completo de correção: [INJECTION_FIX_GUIDE.md](INJECTION_FIX_GUIDE.md)
+Se o jogo está crashando quando você injeta o DLL:
+- 🚀 **Solução Rápida:** [SOLUCAO_RAPIDA_PT.md](SOLUCAO_RAPIDA_PT.md) (EM PORTUGUÊS!)
+- 📖 **Guia Completo:** [INJECTION_FIX_GUIDE.md](INJECTION_FIX_GUIDE.md)
 
 **English:**
-If the game is crashing when you inject the DLL, see the complete fix guide: [INJECTION_FIX_GUIDE.md](INJECTION_FIX_GUIDE.md)
+If the game is crashing when you inject the DLL:
+- 🚀 **Quick Solution:** [SOLUCAO_RAPIDA_PT.md](SOLUCAO_RAPIDA_PT.md) (In Portuguese - use translator)
+- 📖 **Complete Guide:** [INJECTION_FIX_GUIDE.md](INJECTION_FIX_GUIDE.md)
 
 ---
 
@@ -56,17 +60,23 @@ No Extreme Injector, tente estas configurações:
 
 ## Arquivos / Files
 
+- 🚀 `SOLUCAO_RAPIDA_PT.md` - **COMECE AQUI!** Guia rápido em Português / **START HERE!** Quick guide in Portuguese
 - `INJECTION_FIX_GUIDE.md` - Guia completo de correção / Complete fix guide
 - `SOURCE_TEMPLATE.cpp` - Código fonte correto / Correct source code template
+- `COMPILE_GUIDE.md` - Como compilar o DLL / How to compile the DLL
 - `WeedMen55Cheat (1).dll` - DLL original (pode ter problemas / may have issues)
 
 ---
 
 ## Suporte / Support
 
-Para mais informações sobre como corrigir crashes de injeção, consulte:
-- [INJECTION_FIX_GUIDE.md](INJECTION_FIX_GUIDE.md) - Guia detalhado
+**COMECE AQUI / START HERE:**
+- 🚀 [SOLUCAO_RAPIDA_PT.md](SOLUCAO_RAPIDA_PT.md) - Guia rápido em Português com soluções práticas
+
+**Documentação Completa / Complete Documentation:**
+- [INJECTION_FIX_GUIDE.md](INJECTION_FIX_GUIDE.md) - Guia detalhado sobre crashes
 - [SOURCE_TEMPLATE.cpp](SOURCE_TEMPLATE.cpp) - Template de código seguro
+- [COMPILE_GUIDE.md](COMPILE_GUIDE.md) - Como recompilar o DLL
 
 ---
 
